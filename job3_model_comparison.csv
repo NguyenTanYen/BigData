@@ -1,0 +1,4 @@
+﻿model,rmse_trieu,mae_trieu,r2,rank_rmse
+Linear Regression,7.587,4.119,0.7101,1
+Random Forest,7.722,3.863,0.6997,2
+GBT (≈XGBoost),10.136,4.275,0.4826,3

@@ -1,0 +1,38 @@
+﻿salary_bracket,job_level,count
+1. Dưới 10 triệu,Undefined,3
+1. Dưới 10 triệu,Fresher,1
+2. 10–20 triệu,Junior,246
+2. 10–20 triệu,Undefined,24
+2. 10–20 triệu,Fresher,24
+2. 10–20 triệu,Junior/Fresher,8
+2. 10–20 triệu,Manager,7
+2. 10–20 triệu,Senior,1
+3. 20–30 triệu,Undefined,51
+3. 20–30 triệu,Junior,22
+3. 20–30 triệu,Mid-level,13
+3. 20–30 triệu,Senior,6
+3. 20–30 triệu,Junior/Fresher,4
+3. 20–30 triệu,Manager,2
+3. 20–30 triệu,Lead,1
+4. 30–50 triệu,Undefined,897
+4. 30–50 triệu,Senior,215
+4. 30–50 triệu,Lead,32
+4. 30–50 triệu,Mid-level,15
+4. 30–50 triệu,Manager,9
+4. 30–50 triệu,Junior,4
+4. 30–50 triệu,Junior/Fresher,3
+4. 30–50 triệu,Fresher,1
+5. 50–70 triệu,Senior,177
+5. 50–70 triệu,Manager,176
+5. 50–70 triệu,Lead,61
+5. 50–70 triệu,Undefined,20
+5. 50–70 triệu,Junior,2
+5. 50–70 triệu,Mid-level,1
+5. 50–70 triệu,Junior/Fresher,1
+6. 70–100 triệu,Undefined,11
+6. 70–100 triệu,Senior,9
+6. 70–100 triệu,Manager,7
+6. 70–100 triệu,Lead,1
+7. Trên 100 triệu,Undefined,4
+7. Trên 100 triệu,Manager,4
+7. Trên 100 triệu,Senior,1
