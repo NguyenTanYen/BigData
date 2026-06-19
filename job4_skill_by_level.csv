@@ -1,0 +1,68 @@
+﻿skill,job_level,job_cnt
+agile,Undefined,40
+agile,Senior,30
+agile,Manager,22
+agile,Lead,6
+agile,Junior,4
+agile,Junior/Fresher,3
+agile,Mid-level,2
+ai,Undefined,72
+ai,Senior,48
+ai,Lead,12
+ai,Junior,10
+ai,Manager,8
+ai,Junior/Fresher,4
+ai,Fresher,1
+ai,Mid-level,1
+aws,Undefined,50
+aws,Senior,37
+aws,Lead,8
+aws,Manager,4
+aws,Junior,4
+aws,Mid-level,3
+business analysis,Undefined,50
+business analysis,Senior,23
+business analysis,Manager,8
+business analysis,Junior,8
+business analysis,Lead,2
+english,Undefined,108
+english,Senior,72
+english,Manager,32
+english,Lead,20
+english,Junior,4
+english,Fresher,3
+english,Junior/Fresher,1
+java,Undefined,76
+java,Senior,49
+java,Junior,18
+java,Lead,15
+java,Manager,6
+java,Fresher,2
+java,Junior/Fresher,2
+java,Mid-level,1
+javascript,Undefined,56
+javascript,Senior,20
+javascript,Junior,11
+javascript,Lead,10
+javascript,Mid-level,3
+javascript,Fresher,2
+javascript,Manager,1
+project management,Manager,71
+project management,Undefined,28
+project management,Senior,8
+project management,Lead,7
+project management,Junior,3
+python,Undefined,114
+python,Senior,59
+python,Junior,15
+python,Lead,11
+python,Fresher,5
+python,Mid-level,3
+python,Manager,1
+sql,Undefined,101
+sql,Senior,56
+sql,Junior,23
+sql,Lead,10
+sql,Manager,7
+sql,Mid-level,3
+sql,Fresher,1

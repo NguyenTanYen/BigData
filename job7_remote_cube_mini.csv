@@ -1,0 +1,23 @@
+﻿location_group,level_group,remote_label,job_count,avg_salary_trieu,min_salary_trieu,max_salary_trieu
+Hà Nội,Fresher/Junior,Tại văn phòng,16,19.25,12.7,32.5
+Hà Nội,Junior,Tại văn phòng,177,19.24,10.16,38.0
+Hà Nội,Lead,Tại văn phòng,27,46.1,31.75,69.85
+Hà Nội,Manager,Tại văn phòng,79,59.41,15.88,110.54
+Hà Nội,Mid-level,Tại văn phòng,13,29.04,25.0,50.0
+Hà Nội,Senior,Tại văn phòng,170,50.02,19.05,110.52
+Hà Nội,Undefined,Remote/Hybrid,4,32.23,19.05,41.91
+Hà Nội,Undefined,Tại văn phòng,480,32.21,1.27,95.25
+Hồ Chí Minh,Fresher/Junior,Tại văn phòng,25,14.08,6.35,31.88
+Hồ Chí Minh,Junior,Tại văn phòng,92,20.35,11.0,56.1
+Hồ Chí Minh,Lead,Tại văn phòng,60,56.38,20.32,88.9
+Hồ Chí Minh,Manager,Remote/Hybrid,3,53.34,53.34,53.34
+Hồ Chí Minh,Manager,Tại văn phòng,118,54.31,20.32,101.6
+Hồ Chí Minh,Mid-level,Tại văn phòng,16,33.5,27.0,40.0
+Hồ Chí Minh,Senior,Tại văn phòng,231,43.25,21.5,85.09
+Hồ Chí Minh,Undefined,Remote/Hybrid,14,29.13,7.75,31.75
+Hồ Chí Minh,Undefined,Tại văn phòng,498,33.48,8.89,127.0
+Khác,Junior,Tại văn phòng,4,22.13,22.0,22.5
+Đà Nẵng,Lead,Tại văn phòng,6,38.1,38.1,38.1
+Đà Nẵng,Manager,Tại văn phòng,5,19.06,19.06,19.06
+Đà Nẵng,Senior,Tại văn phòng,6,53.34,34.29,69.85
+Đà Nẵng,Undefined,Tại văn phòng,13,35.56,35.56,35.56

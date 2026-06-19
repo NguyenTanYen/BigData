@@ -1,0 +1,8 @@
+﻿level_group,total_jobs,remote_count,nonremote_count,remote_rate_pct,remote_avg_trieu,nonremote_avg_trieu,salary_delta_trieu
+Fresher/Junior,42,1,41,2.38,50.0,16.1,33.9
+Junior,274,0,274,0.0,,19.66,
+Mid-level,29,0,29,0.0,,31.5,
+Senior,409,1,408,0.24,45.81,46.23,-0.42
+Lead,95,2,93,2.11,60.13,52.22,7.91
+Manager,205,3,202,1.46,53.34,55.43,-2.09
+Undefined,1010,18,992,1.78,29.82,32.94,-3.12

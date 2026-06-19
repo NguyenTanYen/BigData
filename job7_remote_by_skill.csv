@@ -1,0 +1,336 @@
+﻿skill,total_job_count,remote_job_count,remote_avg_trieu,nonremote_avg_trieu,remote_rate_pct
+logical thinking,5,2,19.05,19.9,40.0
+firmware engineer,5,1,36.2,33.34,20.0
+chinese,5,1,31.75,36.51,20.0
+security engineer,5,1,63.75,21.54,20.0
+c/c++,11,2,43.1,30.47,18.18
+tin học văn phòng,7,1,31.75,27.52,14.29
+ccna,8,1,31.75,28.67,12.5
+account management,8,1,53.34,43.18,12.5
+microsoft dynamics 365,8,1,31.75,36.21,12.5
+design systems,8,1,31.75,38.64,12.5
+games,9,1,45.81,35.56,11.11
+chăm sóc khách hàng,9,1,31.75,24.79,11.11
+unity,9,1,45.81,30.9,11.11
+fastapi,10,1,41.91,41.92,10.0
+gcp,10,1,31.75,40.78,10.0
+network security,10,1,31.75,33.21,10.0
+embedded software,11,1,36.2,37.27,9.09
+customer service,23,2,42.55,30.09,8.7
+ux/ui design,24,2,19.75,31.9,8.33
+photoshop,12,1,31.75,28.42,8.33
+pytorch,25,2,31.75,35.27,8.0
+product design,13,1,31.75,40.32,7.69
+figma,27,2,31.75,33.11,7.41
+crm,14,1,31.75,36.84,7.14
+network,15,1,63.75,33.46,6.67
+embedded,34,2,33.97,37.17,5.88
+nextjs,17,1,31.75,37.27,5.88
+deep learning,18,1,31.75,38.44,5.56
+vuejs,18,1,41.91,34.0,5.56
+analytical skills,20,1,53.34,40.21,5.0
+fullstack,21,1,41.91,39.06,4.76
+ios,23,1,45.81,39.68,4.35
+tensorflow,24,1,31.75,34.25,4.17
+cybersecurity,25,1,63.75,37.54,4.0
+japanese,25,1,50.0,44.51,4.0
+typescript,51,2,36.83,36.6,3.92
+css,27,1,31.75,35.05,3.7
+problem-solving,28,1,31.75,36.72,3.57
+data science,28,1,31.75,42.92,3.57
+android,29,1,45.81,36.53,3.45
+english,240,8,37.48,42.15,3.33
+product management,32,1,53.34,42.06,3.13
+communication skills,35,1,31.75,36.41,2.86
+net,37,1,31.75,40.23,2.7
+leadership,44,1,45.81,52.67,2.27
+nodejs,47,1,31.75,37.79,2.13
+c#,48,1,31.75,34.24,2.08
+javascript,103,2,31.75,35.96,1.94
+team management,52,1,56.52,50.41,1.92
+python,208,4,34.29,36.75,1.92
+c++,54,1,50.0,35.5,1.85
+công nghệ thông tin,56,1,31.75,29.4,1.79
+devops,67,1,63.75,40.66,1.49
+reactjs,77,1,31.75,37.79,1.3
+ai,156,2,31.75,38.64,1.28
+data analysis,84,1,53.34,35.51,1.19
+aws,106,1,31.75,44.76,0.94
+agile,107,1,50.0,42.29,0.93
+project management,117,1,53.34,46.49,0.85
+computer vision,19,0,,39.47,0.0
+japanese it communication,8,0,,45.72,0.0
+linux,66,0,,33.54,0.0
+business analysis,91,0,,36.44,0.0
+etl,20,0,,39.0,0.0
+jenkins,5,0,,33.27,0.0
+business intelligence,17,0,,34.89,0.0
+api,65,0,,39.16,0.0
+firewall,15,0,,32.46,0.0
+angular,23,0,,38.23,0.0
+net core,6,0,,39.55,0.0
+autosar,11,0,,32.56,0.0
+fresher accepted,42,0,,28.84,0.0
+unit test,9,0,,51.94,0.0
+enterprise architecture,11,0,,41.72,0.0
+html,33,0,,37.09,0.0
+git,28,0,,30.53,0.0
+stakeholder management,24,0,,46.36,0.0
+cloud security,10,0,,31.72,0.0
+solid principles,6,0,,39.93,0.0
+sap,21,0,,40.22,0.0
+css 3,6,0,,33.23,0.0
+hardware design,7,0,,30.26,0.0
+interaction design,5,0,,31.75,0.0
+bpmn,7,0,,44.87,0.0
+embedded c,7,0,,31.93,0.0
+clean architecture,5,0,,44.45,0.0
+penetration testing,5,0,,39.12,0.0
+python programming,16,0,,36.05,0.0
+thiết kế hệ thống,5,0,,29.97,0.0
+.net,24,0,,30.49,0.0
+quality assurance,9,0,,37.25,0.0
+phân tích nghiệp vụ,16,0,,31.19,0.0
+digital transformation,7,0,,46.26,0.0
+sales planning,5,0,,41.66,0.0
+an ninh mạng,8,0,,39.96,0.0
+technical lead,7,0,,43.88,0.0
+powerbi,7,0,,38.26,0.0
+english communication,13,0,,36.03,0.0
+asp.net,8,0,,30.97,0.0
+business process design,7,0,,38.01,0.0
+plc,5,0,,29.21,0.0
+lập kế hoạch,5,0,,30.32,0.0
+khoa học máy tính,8,0,,30.57,0.0
+finance,6,0,,38.52,0.0
+ci/cd,6,0,,30.77,0.0
+oracle database,5,0,,33.55,0.0
+cloud computing,7,0,,30.37,0.0
+thuế,7,0,,28.77,0.0
+sales strategy,5,0,,37.94,0.0
+japanese speaking,6,0,,40.3,0.0
+software engineering,6,0,,48.05,0.0
+problem solving,12,0,,36.55,0.0
+phát triển phần mềm,9,0,,35.41,0.0
+telesales,7,0,,34.03,0.0
+it project management,7,0,,50.5,0.0
+data analytics,17,0,,38.78,0.0
+database design,5,0,,30.99,0.0
+it knowledge,5,0,,35.91,0.0
+software development,8,0,,34.83,0.0
+collaboration,5,0,,43.53,0.0
+full-stack,5,0,,25.82,0.0
+financial,9,0,,22.11,0.0
+data architecture,5,0,,43.32,0.0
+aws cloudformation,7,0,,49.35,0.0
+english fluency,11,0,,33.89,0.0
+bảo mật thông tin,5,0,,27.94,0.0
+presales technical,5,0,,27.43,0.0
+machine learning,61,0,,39.76,0.0
+databricks,6,0,,41.43,0.0
+cd,45,0,,40.92,0.0
+autocad,11,0,,29.25,0.0
+solution architecture,35,0,,45.58,0.0
+microservices,48,0,,41.36,0.0
+vmware,11,0,,31.63,0.0
+windows server,16,0,,35.67,0.0
+ci,45,0,,40.92,0.0
+erp,41,0,,40.46,0.0
+playwright,11,0,,42.21,0.0
+siem,7,0,,33.93,0.0
+prompt engineering,8,0,,37.07,0.0
+it audit,7,0,,34.13,0.0
+aspnet,16,0,,42.07,0.0
+tester,53,0,,39.67,0.0
+design,9,0,,37.76,0.0
+ruby on rails,8,0,,44.25,0.0
+graphql,5,0,,47.85,0.0
+mysql,31,0,,33.63,0.0
+html5,17,0,,38.03,0.0
+integration test,5,0,,44.29,0.0
+it support,25,0,,30.94,0.0
+jira,33,0,,34.25,0.0
+data engineer,31,0,,37.03,0.0
+swift,15,0,,37.25,0.0
+salesforce,5,0,,37.31,0.0
+system administration,6,0,,27.52,0.0
+quản trị hệ thống,11,0,,27.29,0.0
+communication,41,0,,34.73,0.0
+it risk management,8,0,,37.32,0.0
+it infrastructure,7,0,,42.84,0.0
+react,9,0,,37.8,0.0
+ccnp,5,0,,31.75,0.0
+cyber security,7,0,,34.29,0.0
+marketing development,7,0,,27.32,0.0
+tiếng anh,20,0,,33.77,0.0
+bảo mật dữ liệu,5,0,,37.78,0.0
+it administration,5,0,,27.43,0.0
+data engineering,5,0,,43.94,0.0
+restful api,16,0,,34.75,0.0
+ess tools,6,0,,33.66,0.0
+quản trị rủi ro,5,0,,34.13,0.0
+manage erp software,7,0,,45.54,0.0
+nhân sự tổng hợp,14,0,,38.53,0.0
+hạch toán,6,0,,29.76,0.0
+digital banking,5,0,,32.26,0.0
+sales,15,0,,32.92,0.0
+information technology,6,0,,31.12,0.0
+automation,6,0,,30.27,0.0
+hr department,7,0,,32.33,0.0
+microsoft office,7,0,,30.04,0.0
+điều phối dự án,5,0,,30.63,0.0
+sql server,19,0,,31.57,0.0
+testing,6,0,,31.54,0.0
+kỹ thuật ô tô,6,0,,31.75,0.0
+full stack development,5,0,,38.1,0.0
+c/c++ programming,8,0,,29.21,0.0
+senior manager - erp,5,0,,44.7,0.0
+security management,5,0,,35.94,0.0
+digital marketing,10,0,,38.19,0.0
+agile methodology,6,0,,48.98,0.0
+front-end,5,0,,30.47,0.0
+kiểm thử phần mềm,6,0,,25.19,0.0
+quản trị hệ thống mạng,5,0,,24.28,0.0
+giảng dạy/đào tạo,7,0,,36.83,0.0
+xử lý sự cố,6,0,,32.39,0.0
+ms sql,6,0,,30.8,0.0
+it optimization,6,0,,43.81,0.0
+system engineer,6,0,,21.51,0.0
+nestjs,6,0,,46.69,0.0
+phát triển khách hàng,7,0,,32.69,0.0
+lập trình,8,0,,30.95,0.0
+back-end,5,0,,32.59,0.0
+security,33,0,,40.36,0.0
+datadriven,6,0,,45.4,0.0
+database,66,0,,40.69,0.0
+devsecops,20,0,,41.52,0.0
+information security,19,0,,37.73,0.0
+qa qc,45,0,,40.25,0.0
+php,24,0,,39.68,0.0
+automation test,37,0,,42.25,0.0
+market research,6,0,,34.93,0.0
+odoo,7,0,,33.47,0.0
+docker,49,0,,35.32,0.0
+generative ai,17,0,,42.68,0.0
+sql,201,0,,36.89,0.0
+redis,11,0,,38.33,0.0
+scrum,42,0,,40.64,0.0
+mlops,13,0,,42.24,0.0
+postman,7,0,,38.28,0.0
+spring boot,53,0,,39.53,0.0
+software architecture,26,0,,46.77,0.0
+mvvm,9,0,,35.99,0.0
+kotlin,25,0,,38.51,0.0
+b testing,8,0,,45.95,0.0
+cisco,5,0,,36.07,0.0
+oracle,56,0,,36.29,0.0
+azure,41,0,,40.36,0.0
+laravel,9,0,,35.46,0.0
+c language,17,0,,34.96,0.0
+json,12,0,,34.93,0.0
+big data,22,0,,41.73,0.0
+data modeling,10,0,,34.91,0.0
+web api,7,0,,47.92,0.0
+system admin,35,0,,35.21,0.0
+windows,9,0,,26.95,0.0
+nlp,15,0,,36.02,0.0
+flutter,20,0,,34.82,0.0
+spring,21,0,,39.39,0.0
+react native,24,0,,33.52,0.0
+nosql,11,0,,50.07,0.0
+microsoft sql server,7,0,,31.75,0.0
+change management,7,0,,64.32,0.0
+illustrator,6,0,,27.64,0.0
+data warehousing,11,0,,38.23,0.0
+embedded systems,5,0,,31.34,0.0
+agile scrum,10,0,,36.62,0.0
+quản trị kinh doanh,5,0,,24.28,0.0
+uml,7,0,,36.27,0.0
+giao tiếp tiếng anh,9,0,,32.4,0.0
+network management,5,0,,33.26,0.0
+troubleshooting,9,0,,30.76,0.0
+data warehouse,6,0,,35.99,0.0
+tư vấn giải pháp,7,0,,36.21,0.0
+it system administration,7,0,,29.03,0.0
+ltd,13,0,,25.95,0.0
+it operations,9,0,,41.49,0.0
+ci/cd methodologies,7,0,,40.64,0.0
+it security,8,0,,37.81,0.0
+it hardware,5,0,,20.07,0.0
+technical support,26,0,,27.55,0.0
+core banking,19,0,,33.9,0.0
+mariadb,7,0,,33.02,0.0
+quản trị mạng,8,0,,25.46,0.0
+fintech,10,0,,38.9,0.0
+apis,5,0,,54.36,0.0
+business system analyst,5,0,,29.97,0.0
+business analyst,15,0,,29.45,0.0
+automation tester,5,0,,32.43,0.0
+mongodb,14,0,,34.71,0.0
+phân tích tài chính,5,0,,53.88,0.0
+tiếng anh thành thạo,5,0,,29.21,0.0
+agile methodologies,7,0,,41.07,0.0
+sales management,5,0,,55.88,0.0
+llm,47,0,,37.23,0.0
+networking,29,0,,34.45,0.0
+terraform,13,0,,36.9,0.0
+product owner,20,0,,42.79,0.0
+strategy planning,6,0,,57.12,0.0
+kafka,16,0,,45.24,0.0
+system architecture,22,0,,44.28,0.0
+presale,7,0,,34.46,0.0
+redux,7,0,,40.19,0.0
+postgresql,57,0,,38.77,0.0
+golang,39,0,,41.26,0.0
+risk management,18,0,,44.4,0.0
+selenium,11,0,,35.29,0.0
+java,169,0,,38.3,0.0
+product strategy,5,0,,39.12,0.0
+kubernetes,37,0,,37.9,0.0
+cloud,91,0,,41.32,0.0
+tableau,8,0,,30.47,0.0
+power bi,39,0,,32.38,0.0
+unix,10,0,,30.68,0.0
+mobile apps,18,0,,35.01,0.0
+iot,5,0,,25.47,0.0
+oop,29,0,,34.02,0.0
+uiux,24,0,,39.89,0.0
+bridge engineer,7,0,,48.64,0.0
+quản trị dữ liệu,10,0,,36.84,0.0
+analytical thinking,15,0,,38.33,0.0
+excel,12,0,,27.22,0.0
+an toàn thông tin,21,0,,33.37,0.0
+business development,29,0,,32.34,0.0
+project coordination,10,0,,32.34,0.0
+software testing,6,0,,25.4,0.0
+kỹ năng giao tiếp,5,0,,32.77,0.0
+microservice,8,0,,43.16,0.0
+quản trị cơ sở dữ liệu,18,0,,36.36,0.0
+it management,9,0,,39.56,0.0
+bán hàng,10,0,,39.83,0.0
+giải pháp công nghệ,9,0,,31.94,0.0
+mô hình dữ liệu,5,0,,44.28,0.0
+data management,13,0,,43.23,0.0
+banking,6,0,,35.72,0.0
+tiếng nhật,5,0,,26.82,0.0
+giao tiếp,24,0,,30.09,0.0
+telecommunications,6,0,,39.58,0.0
+teamwork,17,0,,29.27,0.0
+automation testing,10,0,,28.19,0.0
+phân tích dữ liệu,31,0,,32.97,0.0
+vulnerability scanning,5,0,,39.75,0.0
+effective communication,5,0,,27.94,0.0
+computer science,10,0,,31.75,0.0
+tư vấn pháp lý,6,0,,23.07,0.0
+giải quyết vấn đề,6,0,,38.1,0.0
+pcb design,5,0,,38.61,0.0
+làm việc nhóm,5,0,,32.26,0.0
+security infrastructure,5,0,,41.66,0.0
+data analyst,5,0,,35.33,0.0
+electronics,5,0,,37.34,0.0
+strategic thinking,5,0,,45.94,0.0
+graphic design,8,0,,29.37,0.0
+dart,5,0,,27.19,0.0
+mes,5,0,,29.21,0.0
+project manager,11,0,,39.3,0.0
+pqa,5,0,,37.91,0.0
